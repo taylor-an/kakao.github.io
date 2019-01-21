@@ -1,13 +1,13 @@
-title: kakao 기술 블로그
-email: opensource@kakaocorp.com
+title: Taylor's Story
+email: taylor@wiznet.io
 description: |
-  Connect Everything 새로운 연결, 새로운 세상.
-  연결의 혁신으로 세상은 더욱 가깝고 새로워진다고 카카오는 믿습니다.
+  정비 중 입니다
+  kakao 기술 블로그에서 fork 하였습니다.
 baseurl: ''
-url: 'http://tech.kakao.com'
+url: 'https://taylor-an.gitgub.io'
 timezone: Asia/Seoul 
 
-repository: kakao/kakao.github.io
+repository: taylor-an/taylor-an.github.io
 
 permalink: /:year/:month/:day/:title/
 
@@ -50,7 +50,7 @@ exclude: [README.md, Gemfile, Gemfile.lock]
 keep_files: [assets, files]
 github: [metadata]
 # iolo's custom
-author: opensource@kakaocorp.com
+author: taylor@wiznet.io
 image: '/assets/images/default_blog_cover.jpg'
 asset_url: /assets
 #asset_url: //meta-kage.kakaocdn.net/dn/osa/blog/assets
@@ -58,11 +58,11 @@ asset_url: /assets
 google_analytics:
   ua: 'UA-72007721-1'
 facebook:
-  app_id: '1204347326263800'
-  username: nkakao
+  app_id: ''
+  username: 
 twitter:
-  username: kakaodev
+  username: 
 google_plus:
-  username: kakaodev
+  username: 
 github_url:
-  username: kakao
+  username: taylor-an
