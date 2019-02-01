@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 메뉴2
-image: /files/covers/opensource.jpg
-permalink: /opensource/
+title: Arduino
+image: /files/covers/arduino.jpg
+permalink: /arduino/
 sitemap: yes
 excerpt: 메뉴2를 소개합니다.
-tags: [opensource,s2graph,mrte,hbase-tools,hbase-region-inspector,adt,daum-editor]
+tags: [arduino]
 ---
 <a id="forkme" href="https://github.com/taylor-an"></a>
 

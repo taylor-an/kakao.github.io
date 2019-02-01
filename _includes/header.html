@@ -14,10 +14,10 @@
     <ul class="search__results" id="results-container"></ul>
 
     <ul id="menu" class="nav">
-        <li class="{% if page.url != '/opensource/' and page.url != '/openapi/' and page.url != '/events/' %} active {% endif %}"><a href="{{ base_path }}/">메뉴1</a></li>
-        <li class="{% if page.url == '/opensource/' %} active {% endif %}"><a href="{{ base_path }}/opensource/">메뉴2</a></li>
-        <li class="{% if page.url == '/openapi/' %} active {% endif %}"><a href="{{ base_path }}/openapi/">메뉴3</a></li>
-        <li class="{% if page.url == '/events/' %} active {% endif %}"><a href="{{ base_path }}/events/">메뉴4</a></li>
+        <li class="{% if page.url != '/arduino/' and page.url != '/mbed/' and page.url != '/learning/' %} active {% endif %}"><a href="{{ base_path }}/">WIZnet</a></li>
+        <li class="{% if page.url == '/arduino/' %} active {% endif %}"><a href="{{ base_path }}/arduino/">Arduino</a></li>
+        <li class="{% if page.url == '/mbed/' %} active {% endif %}"><a href="{{ base_path }}/mbed/">Mbed</a></li>
+        <li class="{% if page.url == '/learning/' %} active {% endif %}"><a href="{{ base_path }}/learning/">Learning</a></li>
     </ul>
 </div>
 <!-- Script pointing to jekyll-search.js -->
