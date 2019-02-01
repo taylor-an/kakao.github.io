@@ -1,5 +1,5 @@
 ---
 name: taylor.An
 title: taylor.An
-image: /files/authors/taylor.an.jpg
+image: /files/authors/taylor.An.jpg
 ---
