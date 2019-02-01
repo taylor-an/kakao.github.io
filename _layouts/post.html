@@ -24,7 +24,7 @@ layout: default
     <div id="post-content">{{ content }}</div>
     <div id="post-footer">
         {% assign author = site.authors | where: 'name', page.author | first %}
-        <a id="post-author" href="{{ author.url }}">
+        <a id="post-author">
             <div id="author-image" style="background-image:url({{ author.image | default: '' }});">
                 <span class="sr-only">{{ author.name }}'s profile image</span>
             </div>
@@ -32,7 +32,7 @@ layout: default
         </a>
         <p id="post-date">{{ page.date | date: '%Y-%m-%d %H:%M' }}</p>
         <a id="post-more" href="{{ author.url }}">
-            <span>Read more posts by this author</span>
+            <span>All posts</span>
         </a>
     </div>
 </div>
