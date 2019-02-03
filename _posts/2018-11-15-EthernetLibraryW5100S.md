@@ -1,6 +1,4 @@
----
 
----
 
 <h2 id="arduino-ethernet-library">1. Arduino Ethernet Library</h2>
 <p>Arduino Ethernet Library(<a href="https://www.arduino.cc/en/Reference/Libraries">https://www.arduino.cc/en/Reference/Libraries</a>)</p>
@@ -40,5 +38,5 @@
 <p>하루 빨리, 공식 Ethernet Library에 포함되어 배포되길 바랍니다.</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTI5OTk4M119
+eyJoaXN0b3J5IjpbMjAyNDI4MzIxOV19
 -->
