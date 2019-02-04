@@ -12,7 +12,7 @@
 <h2 id="pjrc">3. PJRC</h2>
 <p>PJRC(<a href="https://www.pjrc.com/arduino-ethernet-library-2-0-0">https://www.pjrc.com/arduino-ethernet-library-2-0-0</a>)</p>
 <p>PaulStoffregen이 운영하는 Site에서 Arduino Ethernet Library 2.0.0 Release 소식과 Test 한 내용을 볼 수 있습니다.</p>
-<p>다양한 Arduino Board와 WIZnet Chip을 사용한 Ethernet Shield의 Test를 거쳐 Release 되었습니다.</p>
+<p>다양한 Arduino Board와 WIZnet Chip을 사용한 Ethernet Shield의 Test를 거쳐 Release 되었습니다.</p>P
 <p><img src="http://pds21.egloos.com/pds/201811/15/64/f0122164_5bed041864db4.jpg" alt=""></p>
 <h2 id="w5100s">4. W5100S</h2>
 <p>W5100S (<a href="https://www.wiznet.io/ko/product-item/w5100s/">https://www.wiznet.io/ko/product-item/w5100s</a>)</p>
@@ -38,5 +38,5 @@
 <p>하루 빨리, 공식 Ethernet Library에 포함되어 배포되길 바랍니다.</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDI4MzIxOV19
+eyJoaXN0b3J5IjpbMTA2MTY1MDI2MSwyMDI0MjgzMjE5XX0=
 -->
