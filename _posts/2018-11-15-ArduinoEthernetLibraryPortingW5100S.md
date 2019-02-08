@@ -4,7 +4,7 @@ title: 'Poting W5100S on Arduino Ethernet Library v2.0.0'
 author: taylor.An
 date: 2018-11-15 13:00
 tags: [tag-test]
-image: /files/covers/kubernetes.png
+image: /files/covers/head-tail.jpg
 ---
 # 1. Arduino Ethernet Library
 
