@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Poting W6100 on Arduino Ethernet Library v2.0.0 IPv4'
+title: 'Porting W6100 on Arduino Ethernet Library v2.0.0 IPv4'
 author: taylor.An
 date: 2019-02-08 13:00
 tags: [tag-test]
