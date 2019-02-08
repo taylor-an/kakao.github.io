@@ -7,11 +7,10 @@ sitemap: yes
 excerpt: Mbed를 소개합니다.
 tags: [mbed]
 ---
-## [Mbed](Mbed 링크)
 
-## Mbed
+# [Mbed]
 
-* [Mbed]
+Mbed OS is the leading open-source RTOS for the Internet of Things, speeding up the creation and deployment of IoT devices based on Arm processors.
 
 ![](/files/mbed/HomeMbed2019-02-08.png)
 

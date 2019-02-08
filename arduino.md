@@ -8,13 +8,13 @@ excerpt: 메뉴2를 소개합니다.
 tags: [arduino]
 ---
 
-<!-->
+<!--
 <a id="forkme" href="https://github.com/taylor-an"></a>
 -->
 
-## Arduino
+# [Arduino]
 
-* [Arduino]
+Arduino is an open-source electronics platform based on easy-to-use hardware and software.
 
 ![](/files/arduino/HomeArduino2019-02-08.png)
 
