@@ -67,7 +67,7 @@ W6100을 위해 기타 추가 작업을 진행 합니다.
 
 Arduino Ethernet Library v2.0.0에 W6100을 추가한 후 W5100Class:Init
 
-![](/files/posts/2019-02-08/W5100Class-Init-Added-W6100.jpg)
+![](/files/posts/2019-02-08/W5100Class-Init-Added-W6100.png)
 
 작업이 완료되면 Test 과정을 꼭 진행해야합니다.
 
