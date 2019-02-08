@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mbed
-image: /files/covers/mbed.png
+image: /files/covers/mbed.jpg
 permalink: /mbed/
 sitemap: yes
 excerpt: Mbed를 소개합니다.
