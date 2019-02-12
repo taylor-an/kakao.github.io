@@ -53,11 +53,11 @@ IPv6 Branch를 선택합니다.
 
 Arduino IDE를 Default로 설치하면 Library Manager를 통해 Download한 Library는
 
-'C:\Users\'Your ID'\Documents\Arduino\libraries'에 위치 합니다.
+'C:\Users\Your ID\Documents\Arduino\libraries'에 위치 합니다.
 
 Download한 WIZnet Arduino Ethernet Library가 아래와 같은 경로를 갖도록 합니다.
 
-C:\Users\'Your ID'\Documents\Arduino\libraries\Ethernet
+C:\Users\Your ID\Documents\Arduino\libraries\Ethernet
 
 ### 3) ChatServer
 
