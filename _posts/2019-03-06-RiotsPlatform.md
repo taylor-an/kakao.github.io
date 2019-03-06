@@ -13,9 +13,9 @@ WIZnet의 W5500 (https://www.wiznet.io/ko/product-item/w5500/)을 사용한 Riot
 
 # 1. Riots
 
-Riots는 Kickstarter에서 Affordable wireless IoT microcontrollers and sensors (https://www.kickstarter.com/projects/riotsinstruments/riots-aware-for-you)로
+Riots (http://www.myriots.com/)는 Kickstarter에서 Affordable wireless IoT microcontrollers and sensors로 2015년 12월 23일부터 2016년 2월 1일까지 39일 동안 375명의 후원자로 부터 $43,037를 후원받았습니다.
 
-2015년 12월 23일부터 2016년 2월 1일까지 39일 동안 375명의 후원자로 부터 $43,037를 후원받았습니다.
+kickstater project : https://www.kickstarter.com/projects/riotsinstruments/riots-aware-for-you
 
 ![](/files/posts/2019-03-06/Riots-2.jpg)
 
@@ -73,7 +73,7 @@ Source는 Github를 통해 공개하고 있습니다.
 
 Riots의 제품은 Arduino Project 중 하나 입니다.
 
-![](/files/posts/2019-03-06/ArduinoIDE.png)
+![](/files/posts/2019-03-06/ArduinoIDE.jpg)
 
 누구든 개발하고 사용할 수 있습니다.
 
