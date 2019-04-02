@@ -69,6 +69,8 @@ A sustainable (Arduino) project for growing vegetables.
 
 Keep an eye on your garden!
 
+<iframe width="689" height="388" src="https://www.youtube.com/embed/tfOh_8AvmX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # 3. 마치며
 
 Hamilton의 Project는 계속 진행 되고 있습니다.
@@ -89,6 +91,6 @@ WIZnet은 IoT에 많은 관심을 가지고 있으며 IoT 시대를 준비하고
 
 마지막으로 Hamilton의 Fully functional, automated house model 영상입니다.
 
-[![Video Label](/files/posts/2019-04-02/eyeduino-9.jpg)](https://www.youtube.com/embed/ezKlSQfqKzc)
+<iframe width="689" height="387" src="https://www.youtube.com/embed/ezKlSQfqKzc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Thank you Hamilton.
