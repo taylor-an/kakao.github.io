@@ -17,7 +17,7 @@ Just you can run the Arduino IDE, and Choose File -> Examples -> Ethernet -> Adv
 
 ![](/files/posts/2019-05-07/Default/1.jpg)
 
-The below is default Ethernet Library Example AdvancedChatServer.
+The following is default Ethernet Library Example AdvancedChatServer.
 
 ![](/files/posts/2019-05-07/Default/2.jpg)
 
@@ -59,7 +59,7 @@ Extract Ethernet-IPv6.zip and rename to Ethernet. The directory name must be Eth
 
 ![](/files/posts/2019-05-07/Github-WIZnet-Ethernet-IPv6/6-extract.jpg)
 
-Below is tree view after extracted and renamed.
+The following is tree view after extracted and renamed.
 
 ![](/files/posts/2019-05-07/Github-WIZnet-Ethernet-IPv6/6-extract-2.jpg)
 
@@ -97,7 +97,7 @@ The MKRVIDOR-4000 is not added yet in Ethernet Library as default.
 
 ![](/files/posts/2019-05-07/Github-WIZnet-Ethernet-IPv6/17-unknown-board-3.jpg)
 
-You should add the MKRVIDOR-4000 like below and save.
+You should add the MKRVIDOR-4000 like below shown and save a file the w5100.cpp.
 
 ![](/files/posts/2019-05-07/Github-WIZnet-Ethernet-IPv6/17-unknown-board-4.jpg)
 
