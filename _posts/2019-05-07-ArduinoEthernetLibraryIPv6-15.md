@@ -45,6 +45,8 @@ If you don't want to use any git client, you can choose Download ZIP.
 
 ![](/files/posts/2019-05-07/Github-WIZnet-Ethernet-IPv6/3.jpg)
 
+No sign-in required and no sign-up required.
+
 ![](/files/posts/2019-05-07/Github-WIZnet-Ethernet-IPv6/4-download.jpg)
 
 ## Extract
